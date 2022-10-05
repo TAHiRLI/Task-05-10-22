@@ -1,3 +1,14 @@
 .text-justify{
     text-align: justify;
 }
+@media (max-width:1200px){
+    .cards{
+        width: 90% !important;
+    }
+}
+
+
+@media (max-width:572px){
+  .nav{
+    width: 100%;
+  }
